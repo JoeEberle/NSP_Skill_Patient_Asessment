@@ -16,7 +16,7 @@ Here's a summary of performing a patient assessment, following the outlined step
 ### 1. Scene Size-Up
 - **Ensure Scene Safety**: Verify the area is safe for you, the patient, and others.
 - **Introduction and Consent**: Introduce yourself and obtain the patient's permission to provide care.
-- **Determine Mechanism of Injury or Nature of Illness**: Understand what caused the patient’s condition or injury.
+- **Determine Mechanism of Injury or Nature of Illness**: Understand what caused the patientâ€™s condition or injury.
 - **Standard Precautions**: Use protective measures (e.g., gloves, masks) to prevent infection.
 - **Assess Number of Patients**: Identify if there is more than one patient.
 - **Additional Resources**: Determine if additional help or equipment (e.g., backboard, extraction tools) is needed.
@@ -71,10 +71,10 @@ Here is a brief explanation of each element in the RAPID ABCD assessment, which 
   - Assess the patient's breathing rate, depth, and effort. Look for signs of respiratory distress, such as shortness of breath, rapid or shallow breathing, and abnormal sounds (e.g., wheezing, gurgling).
 
 - **C - Circulation**:
-  - Evaluate the patient’s pulse, skin color, temperature, and any signs of bleeding. Look for indications of good or poor blood circulation, such as a strong, regular pulse versus weak or irregular, and pale or clammy skin.
+  - Evaluate the patientâ€™s pulse, skin color, temperature, and any signs of bleeding. Look for indications of good or poor blood circulation, such as a strong, regular pulse versus weak or irregular, and pale or clammy skin.
 
 - **D - Disability**:
-  - Quickly assess the patient’s level of consciousness and neurological function. Check for any signs of neurological impairment (e.g., altered mental status, inability to move parts of the body) and evaluate responsiveness using AVPU:
+  - Quickly assess the patientâ€™s level of consciousness and neurological function. Check for any signs of neurological impairment (e.g., altered mental status, inability to move parts of the body) and evaluate responsiveness using AVPU:
     - **A**lert
     - **V**erbal response
     - **P**ain response
