@@ -26,3 +26,45 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-11-20 00:19:34,018 - INFO - START NSP_Skill_Patient_Asessment =============================================
+2024-11-20 00:19:34,018 - INFO - START NSP_Skill_Patient_Asessment Start Time = 2024-11-20 00:19:34
+2024-11-20 00:19:34,018 - INFO - NSP_Skill_Patient_Asessment Step 0 - Initialize the configuration file parser
+2024-11-20 00:19:34,018 - INFO - Process NSP_Skill_Patient_Asessment Step 0 - Initializing and starting Logging Process.
+2024-11-20 00:19:34,108 - INFO - PERFORMANCE NSP_Skill_Patient_Asessment The total process duration was:0.09
+2024-11-20 00:19:34,109 - INFO - PERFORMANCE NSP_Skill_Patient_Asessment Stop Time = 2024-11-20 00:19:34
+2024-11-20 00:19:34,109 - INFO - PERFORMANCE NSP_Skill_Patient_Asessment Short process duration less than 3 Seconds:0.09
+2024-11-20 00:19:34,109 - INFO - PERFORMANCE NSP_Skill_Patient_Asessment Performance optimization is not reccomended
+2024-11-20 00:19:34,109 - INFO - END NSP_Skill_Patient_Asessment =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-11-20 00:30:16,838 - INFO - START NSP_Skill_Patient_Asessment =============================================
+2024-11-20 00:30:16,838 - INFO - START NSP_Skill_Patient_Asessment Start Time = 2024-11-20 00:30:16
+2024-11-20 00:30:16,838 - INFO - NSP_Skill_Patient_Asessment Step 0 - Initialize the configuration file parser
+2024-11-20 00:30:16,839 - INFO - Process NSP_Skill_Patient_Asessment Step 0 - Initializing and starting Logging Process.
+2024-11-20 00:30:16,963 - INFO - PERFORMANCE NSP_Skill_Patient_Asessment The total process duration was:0.13
+2024-11-20 00:30:16,964 - INFO - PERFORMANCE NSP_Skill_Patient_Asessment Stop Time = 2024-11-20 00:30:16
+2024-11-20 00:30:16,964 - INFO - PERFORMANCE NSP_Skill_Patient_Asessment Short process duration less than 3 Seconds:0.13
+2024-11-20 00:30:16,964 - INFO - PERFORMANCE NSP_Skill_Patient_Asessment Performance optimization is not reccomended
+2024-11-20 00:30:16,965 - INFO - END NSP_Skill_Patient_Asessment =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-11-20 00:30:52,077 - INFO - START NSP_Skill_Patient_Asessment =============================================
+2024-11-20 00:30:52,077 - INFO - START NSP_Skill_Patient_Asessment Start Time = 2024-11-20 00:30:52
+2024-11-20 00:30:52,077 - INFO - NSP_Skill_Patient_Asessment Step 0 - Initialize the configuration file parser
+2024-11-20 00:30:52,078 - INFO - Process NSP_Skill_Patient_Asessment Step 0 - Initializing and starting Logging Process.
+2024-11-20 00:30:52,202 - INFO - PERFORMANCE NSP_Skill_Patient_Asessment The total process duration was:0.13
+2024-11-20 00:30:52,203 - INFO - PERFORMANCE NSP_Skill_Patient_Asessment Stop Time = 2024-11-20 00:30:52
+2024-11-20 00:30:52,203 - INFO - PERFORMANCE NSP_Skill_Patient_Asessment Short process duration less than 3 Seconds:0.13
+2024-11-20 00:30:52,203 - INFO - PERFORMANCE NSP_Skill_Patient_Asessment Performance optimization is not reccomended
+2024-11-20 00:30:52,204 - INFO - END NSP_Skill_Patient_Asessment =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
