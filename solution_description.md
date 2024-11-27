@@ -259,3 +259,23 @@ Removing bloody gloves and addressing a blood-contaminated area are critical ste
 By prioritizing cleanliness and safety during your assessment, you ensure the best care for the patient while protecting yourself and others.
 
 
+
+
+## Assessing a patient's disability -  AVPU 
+
+Here's a brief explanation of each element in the AVPU acronym, used for quickly assessing a patient's level of consciousness and neurological function:
+
+- **A - Alert**:
+  - The patient is fully awake, aware, and responsive. They can respond to questions appropriately and are oriented to their surroundings (knows who they are, where they are, and what time it is).
+
+- **V - Verbal Response**:
+  - The patient responds to verbal stimuli but may not be fully awake or oriented. They react when spoken to (e.g., opening their eyes, speaking, or following commands) but may appear confused or disoriented.
+
+- **P - Pain Response**:
+  - The patient does not respond to verbal stimuli but reacts to painful stimuli (e.g., pinching, sternal rub). Responses might include movement, groaning, or withdrawal from the painful stimulus.
+
+- **U - Unresponsive**:
+  - The patient does not respond to any verbal or painful stimuli. They are unconscious and show no signs of awareness or reaction.
+
+The AVPU scale is a quick and simple tool for assessing a patient's level of consciousness, helping to determine the severity of their condition and guide further action.
+
